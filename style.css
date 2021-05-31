@@ -1,0 +1,42 @@
+body{
+	background-image: url("image/SML.jpg");
+	background-image: no-repeat;
+	background-attachment: fixed;
+
+}
+form{
+	background-color: gray;
+	width: 600px;
+	height: 600px;
+	margin-left: 400px;
+	border-radius: 30px;
+	padding-top: 1px;
+
+
+
+ 
+}
+input, select, textarea{
+	width: 70%;
+	height: 25px;
+	margin-left: 78px;
+	padding-bottom: 10px;
+}
+.containrt{
+	margin-top: 50px;
+}
+
+marquee {
+	background-color: brown;
+	color: white;
+	font-size: 2em;
+	font-weight: bolder;
+	border-bottom: 2px solid white;
+}
+.head{
+	background-color: teal;
+	color: white;
+	font-size: 2em;
+	font-weight: bolder;
+	height: 70px;
+}
